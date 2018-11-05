@@ -1,0 +1,14 @@
+E:\HOC_TAP\netCore\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+E:\HOC_TAP\netCore\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+E:\HOC_TAP\netCore\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+E:\HOC_TAP\netCore\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+E:\HOC_TAP\netCore\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+E:\HOC_TAP\netCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+E:\HOC_TAP\netCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+E:\HOC_TAP\netCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+E:\HOC_TAP\netCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+E:\HOC_TAP\netCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+E:\HOC_TAP\netCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+E:\HOC_TAP\netCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+E:\HOC_TAP\netCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+E:\HOC_TAP\netCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
